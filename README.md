@@ -9,10 +9,10 @@
 <br>
 
 <h2 id="about">Sobre o projeto</h2>
-É muito importante que em um cadastro de algumas empresas os endereços tenham o mesmo formato, pois se cada usuário informa seu logradouro de uma maneira ou ordem diferente, torna-se mais difícil trabalhar com esses dados. 
+É muito importante que em um cadastro de algumas empresas os endereços tenham o mesmo formato, pois se cada usuário informa seu logradouro de uma maneira ou ordem diferente, torna-se mais difícil trabalhar com esses dados. E no caso, eu fiz esse cadastro para a minha empresa fictícia: a 'Biblioteca Pública'.
 Neste projeto eu estou consumindo dados de uma API que verifica se o CEP está correto e autocompleta as informações do seu endereço, solucionando esse problema. 
   
-  Se você quer ver como ficou o projeto, clique aqui -> 
+  Se você quer ver como ficou o projeto, clique aqui -> https://jamyleteles.github.io/Verifica-CEP/
 <br>
 
 <h2 id="dif">Dificuldades/Conquistas</h2>
